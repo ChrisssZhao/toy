@@ -1,2 +1,3 @@
 qlearning 解决最优路径规划（有障碍）
 cf 协同过滤，item based 避免计算量过大(数据稀疏)
+pca 实现简单的pca降维
